@@ -6,9 +6,9 @@ Description
 Installation
 - To use this project locally:
 1.) Clone the repository:
-git clone https://github.com/YourUsername/CSP451-CheckPoint1-YourName.git
+git clone https://github.com/sjdujua/CSP451-CheckPoint1-sjdujua.git
 2.) Navigate to the project folder:
-cd CSP451-CheckPoint1-YourName
+cd CSP451-CheckPoint1-sjdujua
 3.) Open index.html in any web browser.
 No additional software or dependencies are required.
 
